@@ -1,0 +1,16 @@
+default walt_name = "????"
+define w = Character("[walt_name]", image="walt",dynamic=True)
+define a = Character("Asher", image="asher")
+define d = Character("Driver")
+define c = Character("Cashier")
+define t = Character("Tourist")
+
+define ws = Character("Walt", image="waltss")
+define ac = Character("Asher", image="asherss")
+define cl = Character("Clyde", image="clyde")
+define r = Character("Riley", image="riley")
+define da = Character("Dad")
+define k = Character("Kid")
+define cr = Character("Creature")
+define bf = Character("Boyfriend")
+define gf = Character("Girlfriend")
